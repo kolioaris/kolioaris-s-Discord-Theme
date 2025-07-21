@@ -1,11 +1,26 @@
 # kolioaris's Discord Theme
 A transparent Discord theme, blue - pink based, inspired by Frosted Glass.
 
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Images](#images)
+  - [Server](#server)
+  - [DMs](#dms)
+  - [Settings](#settings)
 - [Installation](#installation)
   - [BetterDiscord](#betterdiscord)
   - [Vencord](#vencord)
-![Screenshot](https://github.com/kolioaris/kolioaris-s-Discord-Theme/blob/main/images/image1.png?raw=true)
-*When this image was screenshotted, I was using Vencord*
+
+--- 
+
+## Images
+### Server
+![Server](https://github.com/kolioaris/kolioaris-s-Discord-Theme/blob/main/images/image1.png?raw=true)
+### DMs
+![DMs](https://github.com/kolioaris/kolioaris-s-Discord-Theme/blob/main/images/image2.png?raw=true)
+### Settings
+![Settings](https://github.com/kolioaris/kolioaris-s-Discord-Theme/blob/main/images/image3.png?raw=true)
+*When this images were screenshotted, I was using Vencord*
 
 ## Installation
 ### BetterDiscord
