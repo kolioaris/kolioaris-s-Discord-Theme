@@ -9,7 +9,6 @@ A transparent Discord theme, blue - pink based, inspired by Frosted Glass.
   - [Settings](#settings)
 - [Installation](#installation)
   - [BetterDiscord](#betterdiscord)
-  - [Vencord](#vencord)
 
 --- 
 
@@ -28,5 +27,3 @@ A transparent Discord theme, blue - pink based, inspired by Frosted Glass.
 2. Open BetterDiscord's settings, navigate to the Themes tab, and click "Open Themes Folder"
 3. Drag or copy-paste the downloaded theme file into this folder
 4. Go back to the Themes tab, and enable the theme
-
-### Vencord
